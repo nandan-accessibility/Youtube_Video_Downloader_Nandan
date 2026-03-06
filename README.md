@@ -28,3 +28,7 @@ NVDA & JAWS Certified Expert
 Accessibility Tester and Trainer
 
 GitHub: https://github.com/nandan-accessibility
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
